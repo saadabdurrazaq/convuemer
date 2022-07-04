@@ -10,6 +10,17 @@
 ## Project development info
 This is the process of development, now this project is live on https://convuemer.cybersead.com/. But for some reasons, it needs to separated into 2 repositories. So, for the frontend is now located at https://github.com/saadabdurrazaq/convuemer-frontend and for the backend is now located at https://github.com/saadabdurrazaq/convuemer-backend
 
+## Credential access
+[USER]
+URL: https://convuemer.cybersead.com/user/login
+Email: user@mail.com
+Password: 12345678
+
+[STAFF]
+URL: https://convuemer.cybersead.com/staff/login
+Email: lorem@mail.com
+Password: 12345678
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
